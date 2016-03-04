@@ -12,7 +12,7 @@
   ],
   "license": "CC0-1.0",
   "main": "index.json",
-  "repository": "commonform/kimble-plain-words.json",
+  "repository": "kemitchell/kimble-plain-words.json",
   "scripts": {
     "test": "node test.js"
   }
