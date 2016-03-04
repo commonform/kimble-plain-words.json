@@ -1,7 +1,7 @@
 {
   "name": "kimble-plain-words",
   "description": "Joseph Kimble's lists of suggested plain English replacements",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "devDependencies": {
     "lispy-json": "^1.1.2",
