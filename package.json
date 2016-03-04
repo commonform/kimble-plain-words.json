@@ -1,0 +1,13 @@
+{ "name": "kimble-plain-words",
+  "description": "Joseph Kimble's lists of wordy words and phrases and their replacements",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "devDependencies": {
+    "lispy-json": "^1.1.2",
+    "tv4": "^1.2.7" },
+  "files": [ "index.json" ],
+  "license": "CC0-1.0",
+  "main": "index.json",
+  "repository": "commonform/kimble-plain-words.json",
+  "scripts": {
+    "test": "node test.js" } }
