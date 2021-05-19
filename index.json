@@ -1,1880 +1,4333 @@
-[ { "instead of": [
-      { "phrase": "acede to" } ],
-    "consider": [ "grant", "allow" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "accompany" } ],
-    "consider": [ "go with" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "accomplish" } ],
-    "consider": [ "do", "achieve" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "accordingly" } ],
-    "consider": [ "so", "therefore" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "accumulate" } ],
-    "consider": [ "gather", "get", "have" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "additional" } ],
-    "consider": [ "more", "added", "other" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "additionally" } ],
-    "consider": [ "and", "also" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "adjacent to" } ],
-    "consider": [ "close to", "near", "next to" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "administer" } ],
-    "consider": [ "manage" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "advantageous" } ],
-    "consider": [ "useful", "helpful" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "advise" } ],
-    "consider": [ "tell", "recommend" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "afford" } ],
-    "consider": [ "give" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "aggregate" } ],
-    "consider": [ "total" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "allocate" } ],
-    "consider": [ "give", "divide", "set aside" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "alter" } ],
-    "consider": [ "change" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "alteration" } ],
-    "consider": [ "change" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "alternative" } ],
-    "consider": [ "other", "other choice" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "anticipate" } ],
-    "consider": [ "expect" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "append" } ],
-    "consider": [ "attach" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "apprise" } ],
-    "consider": [ "tell", "inform" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "approximately" } ],
-    "consider": [ "about", "almost", "roughly" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "ascertain" } ],
-    "consider": [ "find out", "learn", "determine" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "assist" } ],
-    "consider": [ "help" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "assistance" } ],
-    "consider": [ "help" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "attain" } ],
-    "consider": [ "reach", "become" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "attempt",
-        "form": "verb" } ],
-    "consider": [ "try" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "biannually" } ],
-    "consider": [ "twice a year" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "calculate" } ],
-    "consider": [ "work out", "figure" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "category" } ],
-    "consider": [ "kind", "class", "group" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "cease" } ],
-    "consider": [ "end", "stop" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "cognizant of" } ],
-    "consider": [ "aware of", "know" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "commence" } ],
-    "consider": [ "begin", "start" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "commencement" } ],
-    "consider": [ "beginning", "start" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "commitment" } ],
-    "consider": [ "promise" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "communicate" } ],
-    "consider": [ "write", "tell", "talk" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "compensation" } ],
-    "consider": [ "pay", "payment" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "complete",
-        "form": "verb" } ],
-    "consider": [ "finish", "fill out" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "comply with" } ],
-    "consider": [ "follow", "meet" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "component" } ],
-    "consider": [ "part" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "comprise" } ],
-    "consider": [ "consist of", "contain" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "conceal" } ],
-    "consider": [ "hide" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "concept" } ],
-    "consider": [ "idea" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "concerning" } ],
-    "consider": [ "about", "on", "for" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "concur" } ],
-    "consider": [ "agree" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "consequence" } ],
-    "consider": [ "result" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "consequently" } ],
-    "consider": [ "so", "therefore" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "consolidate" } ],
-    "consider": [ "combine", "join" ],
-    "part": 1,
-    "page": 72 },
-  { "instead of": [
-      { "phrase": "indicate" } ],
-    "consider": [ "say", "show", "suggest" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "indication" } ],
-    "consider": [ "sign" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "individual",
-        "form": "noun" } ],
-    "consider": [ "person" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "inform" } ],
-    "consider": [ "tell" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "initial" } ],
-    "consider": [ "first" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "initiate" } ],
-    "consider": [ "begin", "start", "set up" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "inquire" } ],
-    "consider": [ "ask" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "institute" } ],
-    "consider": [ "begin", "start", "set up" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "interrogate" } ],
-    "consider": [ "question" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "locate" } ],
-    "consider": [ "find", "place" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "magnitude" } ],
-    "consider": [ "size" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "maintain" } ],
-    "consider": [ "keep", "continue", "support" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "manner" } ],
-    "consider": [ "way" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "maximum" } ],
-    "consider": [ "most", "largest", "greatest" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "modification" } ],
-    "consider": [ "change" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "modify" } ],
-    "consider": [ "change" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "necessitate" } ],
-    "consider": [ "require" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "necessity" } ],
-    "consider": [ "need", "requirement" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "notification" } ],
-    "consider": [ "notice" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "notwithstanding" } ],
-    "consider": [ "despite" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "numerous" } ],
-    "consider": [ "many" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "objective",
-        "form": "noun" } ],
-    "consider": [ "goal", "aim" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "obligate" } ],
-    "consider": [ "bind", "compel", "require" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "obligation" } ],
-    "consider": [ "debt", "duty", "responsibility" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "observe" } ],
-    "consider": [ "see", "watch", "follow", "obey" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "obtain" } ],
-    "consider": [ "get" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "obviate" } ],
-    "consider": [ "avoid" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "occasion",
-        "form": "verb" } ],
-    "consider": [ "cause" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "occur" } ],
-    "consider": [ "happen" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "ongoing" } ],
-    "consider": [ "continuing", "active" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "opt for" } ],
-    "consider": [ "choose" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "optimum" } ],
-    "consider": [ "best" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "option" } ],
-    "consider": [ "choice" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "parameter" } ],
-    "consider": [ "limit", "boundary", "guideline", "condition" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "participate" } ],
-    "consider": [ "take part" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "per annum" } ],
-    "consider": [ "a year" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "personnel" } ],
-    "consider": [ "people", "staff" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "peruse" } ],
-    "consider": [ "read with care", "review" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "per year" } ],
-    "consider": [ "a year" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "place",
-        "form": "verb" } ],
-    "consider": [ "put" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "portion" } ],
-    "consider": [ "part" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "constitute" } ],
-    "consider": [ "make up" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "construct" } ],
-    "consider": [ "build", "make" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "contiguous to" } ],
-    "consider": [ "next to", "bordering on" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "currently" } ],
-    "consider": [ "now" ],
+[
+  {
+    "instead of": [
+      {
+        "phrase": "acede to"
+      }
+    ],
+    "consider": [
+      "grant",
+      "allow"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "accompany"
+      }
+    ],
+    "consider": [
+      "go with"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "accomplish"
+      }
+    ],
+    "consider": [
+      "do",
+      "achieve"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "accordingly"
+      }
+    ],
+    "consider": [
+      "so",
+      "therefore"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "accumulate"
+      }
+    ],
+    "consider": [
+      "gather",
+      "get",
+      "have"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "additional"
+      }
+    ],
+    "consider": [
+      "more",
+      "added",
+      "other"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "additionally"
+      }
+    ],
+    "consider": [
+      "and",
+      "also"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "adjacent to"
+      }
+    ],
+    "consider": [
+      "close to",
+      "near",
+      "next to"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "administer"
+      }
+    ],
+    "consider": [
+      "manage"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "advantageous"
+      }
+    ],
+    "consider": [
+      "useful",
+      "helpful"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "advise"
+      }
+    ],
+    "consider": [
+      "tell",
+      "recommend"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "afford"
+      }
+    ],
+    "consider": [
+      "give"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "aggregate"
+      }
+    ],
+    "consider": [
+      "total"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "allocate"
+      }
+    ],
+    "consider": [
+      "give",
+      "divide",
+      "set aside"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "alter"
+      }
+    ],
+    "consider": [
+      "change"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "alteration"
+      }
+    ],
+    "consider": [
+      "change"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "alternative"
+      }
+    ],
+    "consider": [
+      "other",
+      "other choice"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "anticipate"
+      }
+    ],
+    "consider": [
+      "expect"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "append"
+      }
+    ],
+    "consider": [
+      "attach"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "apprise"
+      }
+    ],
+    "consider": [
+      "tell",
+      "inform"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "approximately"
+      }
+    ],
+    "consider": [
+      "about",
+      "almost",
+      "roughly"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "ascertain"
+      }
+    ],
+    "consider": [
+      "find out",
+      "learn",
+      "determine"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "assist"
+      }
+    ],
+    "consider": [
+      "help"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "assistance"
+      }
+    ],
+    "consider": [
+      "help"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "attain"
+      }
+    ],
+    "consider": [
+      "reach",
+      "become"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "attempt",
+        "form": "verb"
+      }
+    ],
+    "consider": [
+      "try"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "biannually"
+      }
+    ],
+    "consider": [
+      "twice a year"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "calculate"
+      }
+    ],
+    "consider": [
+      "work out",
+      "figure"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "category"
+      }
+    ],
+    "consider": [
+      "kind",
+      "class",
+      "group"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "cease"
+      }
+    ],
+    "consider": [
+      "end",
+      "stop"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "cognizant of"
+      }
+    ],
+    "consider": [
+      "aware of",
+      "know"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "commence"
+      }
+    ],
+    "consider": [
+      "begin",
+      "start"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "commencement"
+      }
+    ],
+    "consider": [
+      "beginning",
+      "start"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "commitment"
+      }
+    ],
+    "consider": [
+      "promise"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "communicate"
+      }
+    ],
+    "consider": [
+      "write",
+      "tell",
+      "talk"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "compensation"
+      }
+    ],
+    "consider": [
+      "pay",
+      "payment"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "complete",
+        "form": "verb"
+      }
+    ],
+    "consider": [
+      "finish",
+      "fill out"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "comply with"
+      }
+    ],
+    "consider": [
+      "follow",
+      "meet"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "component"
+      }
+    ],
+    "consider": [
+      "part"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "comprise"
+      }
+    ],
+    "consider": [
+      "consist of",
+      "contain"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "conceal"
+      }
+    ],
+    "consider": [
+      "hide"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "concept"
+      }
+    ],
+    "consider": [
+      "idea"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "concerning"
+      }
+    ],
+    "consider": [
+      "about",
+      "on",
+      "for"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "concur"
+      }
+    ],
+    "consider": [
+      "agree"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "consequence"
+      }
+    ],
+    "consider": [
+      "result"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "consequently"
+      }
+    ],
+    "consider": [
+      "so",
+      "therefore"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "consolidate"
+      }
+    ],
+    "consider": [
+      "combine",
+      "join"
+    ],
+    "part": 1,
+    "page": 72
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "indicate"
+      }
+    ],
+    "consider": [
+      "say",
+      "show",
+      "suggest"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "indication"
+      }
+    ],
+    "consider": [
+      "sign"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "individual",
+        "form": "noun"
+      }
+    ],
+    "consider": [
+      "person"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "inform"
+      }
+    ],
+    "consider": [
+      "tell"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "initial"
+      }
+    ],
+    "consider": [
+      "first"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "initiate"
+      }
+    ],
+    "consider": [
+      "begin",
+      "start",
+      "set up"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "inquire"
+      }
+    ],
+    "consider": [
+      "ask"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "institute"
+      }
+    ],
+    "consider": [
+      "begin",
+      "start",
+      "set up"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "interrogate"
+      }
+    ],
+    "consider": [
+      "question"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "locate"
+      }
+    ],
+    "consider": [
+      "find",
+      "place"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "magnitude"
+      }
+    ],
+    "consider": [
+      "size"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "maintain"
+      }
+    ],
+    "consider": [
+      "keep",
+      "continue",
+      "support"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "manner"
+      }
+    ],
+    "consider": [
+      "way"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "maximum"
+      }
+    ],
+    "consider": [
+      "most",
+      "largest",
+      "greatest"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "modification"
+      }
+    ],
+    "consider": [
+      "change"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "modify"
+      }
+    ],
+    "consider": [
+      "change"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "necessitate"
+      }
+    ],
+    "consider": [
+      "require"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "necessity"
+      }
+    ],
+    "consider": [
+      "need",
+      "requirement"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "notification"
+      }
+    ],
+    "consider": [
+      "notice"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "notwithstanding"
+      }
+    ],
+    "consider": [
+      "despite"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "numerous"
+      }
+    ],
+    "consider": [
+      "many"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "objective",
+        "form": "noun"
+      }
+    ],
+    "consider": [
+      "goal",
+      "aim"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "obligate"
+      }
+    ],
+    "consider": [
+      "bind",
+      "compel",
+      "require"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "obligation"
+      }
+    ],
+    "consider": [
+      "debt",
+      "duty",
+      "responsibility"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "observe"
+      }
+    ],
+    "consider": [
+      "see",
+      "watch",
+      "follow",
+      "obey"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "obtain"
+      }
+    ],
+    "consider": [
+      "get"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "obviate"
+      }
+    ],
+    "consider": [
+      "avoid"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "occasion",
+        "form": "verb"
+      }
+    ],
+    "consider": [
+      "cause"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "occur"
+      }
+    ],
+    "consider": [
+      "happen"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "ongoing"
+      }
+    ],
+    "consider": [
+      "continuing",
+      "active"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "opt for"
+      }
+    ],
+    "consider": [
+      "choose"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "optimum"
+      }
+    ],
+    "consider": [
+      "best"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "option"
+      }
+    ],
+    "consider": [
+      "choice"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "parameter"
+      }
+    ],
+    "consider": [
+      "limit",
+      "boundary",
+      "guideline",
+      "condition"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "participate"
+      }
+    ],
+    "consider": [
+      "take part"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "per annum"
+      }
+    ],
+    "consider": [
+      "a year"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "personnel"
+      }
+    ],
+    "consider": [
+      "people",
+      "staff"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "peruse"
+      }
+    ],
+    "consider": [
+      "read with care",
+      "review"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "per year"
+      }
+    ],
+    "consider": [
+      "a year"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "place",
+        "form": "verb"
+      }
+    ],
+    "consider": [
+      "put"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "portion"
+      }
+    ],
+    "consider": [
+      "part"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "constitute"
+      }
+    ],
+    "consider": [
+      "make up"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "construct"
+      }
+    ],
+    "consider": [
+      "build",
+      "make"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "contiguous to"
+      }
+    ],
+    "consider": [
+      "next to",
+      "bordering on"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "currently"
+      }
+    ],
+    "consider": [
+      "now"
+    ],
     "note": "or cut it",
     "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "customary" } ],
-    "consider": [ "usual" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "decrease",
-        "form": "verb" } ],
-    "consider": [ "reduce", "lower" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "deem" } ],
-    "consider": [ "consider", "think", "treat as" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "defer" } ],
-    "consider": [ "delay", "put off" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "demise" } ],
-    "consider": [ "death" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "demonstrate" } ],
-    "consider": [ "show", "prove" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "depart" } ],
-    "consider": [ "go", "leave" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "designate" } ],
-    "consider": [ "appoint", "name", "choose", "set" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "desire" } ],
-    "consider": [ "wish", "want" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "desist" } ],
-    "consider": [ "stop" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "detain" } ],
-    "consider": [ "hold" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "diminish" } ],
-    "consider": [ "lessen", "reduce" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "discontinue" } ],
-    "consider": [ "stop" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "disseminate" } ],
-    "consider": [ "send out", "distribute" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "donate" } ],
-    "consider": [ "give" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "duration" } ],
-    "consider": [ "time", "rest" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "effectuate" } ],
-    "consider": [ "carry out", "bring about" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "elapse" } ],
-    "consider": [ "pass" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "elucidate" } ],
-    "consider": [ "explain", "clarify" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "employ" } ],
-    "consider": [ "use" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "employment" } ],
-    "consider": [ "work", "job" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "encounter" } ],
-    "consider": [ "meet", "face", "run into" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "endeavor",
-        "form": "verb" } ],
-    "consider": [ "try" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "ensure" } ],
-    "consider": [ "make sure" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "entitled to" } ],
-    "consider": [ "has a right to" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "enumerate" } ],
-    "consider": [ "list", "name" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "equivalent" } ],
-    "consider": [ "equal", "the same" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "evince" } ],
-    "consider": [ "show" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "exclude" } ],
-    "consider": [ "leave out" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "exhibit",
-        "form": "verb" } ],
-    "consider": [ "have", "show" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "expedite" } ],
-    "consider": [ "hasten", "speed up" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "expend" } ],
-    "consider": [ "spend" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "expenditure" } ],
-    "consider": [ "payment", "expense", "cost" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "expiration" } ],
-    "consider": [ "end" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "facilitate" } ],
-    "consider": [ "make easier", "help" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "following",
-        "form": "preposition" } ],
-    "consider": [ "after" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "formulate" } ],
-    "consider": [ "work out", "devise" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "forward",
-        "form": "verb" } ],
-    "consider": [ "send" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "frequently" } ],
-    "consider": [ "often" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "furnish" } ],
-    "consider": [ "give", "provide" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "hence" } ],
-    "consider": [ "so", "therefore" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "however" } ],
-    "consider": [ "but" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "identical" } ],
-    "consider": [ "same" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "illustrate" } ],
-    "consider": [ "show" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "impact",
-        "form": "verb" } ],
-    "consider": [ "affect", "influence" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "implement" } ],
-    "consider": [ "carry out", "begin", "start", "create", "set up" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "inception" } ],
-    "consider": [ "start", "beginning" ],
-    "part": 1,
-    "page": 73 },
-  { "instead of": [
-      { "phrase": "possess" } ],
-    "consider": [ "have", "own" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "preclude" } ],
-    "consider": [ "prevent" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "preferable" } ],
-    "consider": [ "best", "better", "preferred" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "premises" } ],
-    "consider": [ "place", "property" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "prescribed" } ],
-    "consider": [ "set", "required" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "present",
-        "form": "verb" } ],
-    "consider": [ "give" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "previous" } ],
-    "consider": [ "earlier", "last", "past" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "previously" } ],
-    "consider": [ "before", "earlier" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "principal" } ],
-    "consider": [ "main", "chief" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "prior" } ],
-    "consider": [ "earlier" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "proceed" } ],
-    "consider": [ "go", "go ahead" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "procure" } ],
-    "consider": [ "buy", "get" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "promulgate" } ],
-    "consider": [ "make", "issue", "pass" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "provide" } ],
-    "consider": [ "give", "send" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "provided that" } ],
-    "consider": [ "if", "but" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "purchase",
-        "form": "verb" } ],
-    "consider": [ "buy" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "pursuant to" } ],
-    "consider": [ "under" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "receive" } ],
-    "consider": [ "get" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "regarding" } ],
-    "consider": [ "about", "on", "for" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "reimburse" } ],
-    "consider": [ "repay", "pay back" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "remainder" } ],
-    "consider": [ "rest" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "render" } ],
-    "consider": [ "make", "give" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "represents" } ],
-    "consider": [ "is", "makes up", "stands for" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "request",
-        "form": "verb" } ],
-    "consider": [ "ask" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "requisite",
-        "form": "adjective" } ],
-    "consider": [ "needed", "required" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "reside" } ],
-    "consider": [ "live" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "respond" } ],
-    "consider": [ "answer", "reply" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "responsible for" } ],
-    "consider": [ "causes", "has charge of" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "retain" } ],
-    "consider": [ "keep" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "selection" } ],
-    "consider": [ "choice" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "semiannually" } ],
-    "consider": [ "twice a year" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "similar to" } ],
-    "consider": [ "like" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "solely" } ],
-    "consider": [ "only" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "specified" } ],
-    "consider": [ "named", "set out" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "submit" } ],
-    "consider": [ "send", "offer" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "subsequent" } ],
-    "consider": [ "later" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "subsequently" } ],
-    "consider": [ "later", "afterwards", "then" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "sufficient" } ],
-    "consider": [ "enough" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "summon" } ],
-    "consider": [ "send for", "call" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "terminate" } ],
-    "consider": [ "end", "stop" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "thus" } ],
-    "consider": [ "so" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "transmit" } ],
-    "consider": [ "send" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "transpire" } ],
-    "consider": [ "happen" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "utilize" } ],
-    "consider": [ "use" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "visualize" } ],
-    "consider": [ "think of", "imagine" ],
-    "part": 1,
-    "page": 74 },
-  { "instead of": [
-      { "phrase": "as a means of" } ],
-    "consider": [ "to" ],
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "customary"
+      }
+    ],
+    "consider": [
+      "usual"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "decrease",
+        "form": "verb"
+      }
+    ],
+    "consider": [
+      "reduce",
+      "lower"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "deem"
+      }
+    ],
+    "consider": [
+      "consider",
+      "think",
+      "treat as"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "defer"
+      }
+    ],
+    "consider": [
+      "delay",
+      "put off"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "demise"
+      }
+    ],
+    "consider": [
+      "death"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "demonstrate"
+      }
+    ],
+    "consider": [
+      "show",
+      "prove"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "depart"
+      }
+    ],
+    "consider": [
+      "go",
+      "leave"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "designate"
+      }
+    ],
+    "consider": [
+      "appoint",
+      "name",
+      "choose",
+      "set"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "desire"
+      }
+    ],
+    "consider": [
+      "wish",
+      "want"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "desist"
+      }
+    ],
+    "consider": [
+      "stop"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "detain"
+      }
+    ],
+    "consider": [
+      "hold"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "diminish"
+      }
+    ],
+    "consider": [
+      "lessen",
+      "reduce"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "discontinue"
+      }
+    ],
+    "consider": [
+      "stop"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "disseminate"
+      }
+    ],
+    "consider": [
+      "send out",
+      "distribute"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "donate"
+      }
+    ],
+    "consider": [
+      "give"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "duration"
+      }
+    ],
+    "consider": [
+      "time",
+      "rest"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "effectuate"
+      }
+    ],
+    "consider": [
+      "carry out",
+      "bring about"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "elapse"
+      }
+    ],
+    "consider": [
+      "pass"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "elucidate"
+      }
+    ],
+    "consider": [
+      "explain",
+      "clarify"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "employ"
+      }
+    ],
+    "consider": [
+      "use"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "employment"
+      }
+    ],
+    "consider": [
+      "work",
+      "job"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "encounter"
+      }
+    ],
+    "consider": [
+      "meet",
+      "face",
+      "run into"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "endeavor",
+        "form": "verb"
+      }
+    ],
+    "consider": [
+      "try"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "ensure"
+      }
+    ],
+    "consider": [
+      "make sure"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "entitled to"
+      }
+    ],
+    "consider": [
+      "has a right to"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "enumerate"
+      }
+    ],
+    "consider": [
+      "list",
+      "name"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "equivalent"
+      }
+    ],
+    "consider": [
+      "equal",
+      "the same"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "evince"
+      }
+    ],
+    "consider": [
+      "show"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "exclude"
+      }
+    ],
+    "consider": [
+      "leave out"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "exhibit",
+        "form": "verb"
+      }
+    ],
+    "consider": [
+      "have",
+      "show"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "expedite"
+      }
+    ],
+    "consider": [
+      "hasten",
+      "speed up"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "expend"
+      }
+    ],
+    "consider": [
+      "spend"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "expenditure"
+      }
+    ],
+    "consider": [
+      "payment",
+      "expense",
+      "cost"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "expiration"
+      }
+    ],
+    "consider": [
+      "end"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "facilitate"
+      }
+    ],
+    "consider": [
+      "make easier",
+      "help"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "following",
+        "form": "preposition"
+      }
+    ],
+    "consider": [
+      "after"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "formulate"
+      }
+    ],
+    "consider": [
+      "work out",
+      "devise"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "forward",
+        "form": "verb"
+      }
+    ],
+    "consider": [
+      "send"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "frequently"
+      }
+    ],
+    "consider": [
+      "often"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "furnish"
+      }
+    ],
+    "consider": [
+      "give",
+      "provide"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "hence"
+      }
+    ],
+    "consider": [
+      "so",
+      "therefore"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "however"
+      }
+    ],
+    "consider": [
+      "but"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "identical"
+      }
+    ],
+    "consider": [
+      "same"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "illustrate"
+      }
+    ],
+    "consider": [
+      "show"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "impact",
+        "form": "verb"
+      }
+    ],
+    "consider": [
+      "affect",
+      "influence"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "implement"
+      }
+    ],
+    "consider": [
+      "carry out",
+      "begin",
+      "start",
+      "create",
+      "set up"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "inception"
+      }
+    ],
+    "consider": [
+      "start",
+      "beginning"
+    ],
+    "part": 1,
+    "page": 73
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "possess"
+      }
+    ],
+    "consider": [
+      "have",
+      "own"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "preclude"
+      }
+    ],
+    "consider": [
+      "prevent"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "preferable"
+      }
+    ],
+    "consider": [
+      "best",
+      "better",
+      "preferred"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "premises"
+      }
+    ],
+    "consider": [
+      "place",
+      "property"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "prescribed"
+      }
+    ],
+    "consider": [
+      "set",
+      "required"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "present",
+        "form": "verb"
+      }
+    ],
+    "consider": [
+      "give"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "previous"
+      }
+    ],
+    "consider": [
+      "earlier",
+      "last",
+      "past"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "previously"
+      }
+    ],
+    "consider": [
+      "before",
+      "earlier"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "principal"
+      }
+    ],
+    "consider": [
+      "main",
+      "chief"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "prior"
+      }
+    ],
+    "consider": [
+      "earlier"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "proceed"
+      }
+    ],
+    "consider": [
+      "go",
+      "go ahead"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "procure"
+      }
+    ],
+    "consider": [
+      "buy",
+      "get"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "promulgate"
+      }
+    ],
+    "consider": [
+      "make",
+      "issue",
+      "pass"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "provide"
+      }
+    ],
+    "consider": [
+      "give",
+      "send"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "provided that"
+      }
+    ],
+    "consider": [
+      "if",
+      "but"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "purchase",
+        "form": "verb"
+      }
+    ],
+    "consider": [
+      "buy"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "pursuant to"
+      }
+    ],
+    "consider": [
+      "under"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "receive"
+      }
+    ],
+    "consider": [
+      "get"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "regarding"
+      }
+    ],
+    "consider": [
+      "about",
+      "on",
+      "for"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "reimburse"
+      }
+    ],
+    "consider": [
+      "repay",
+      "pay back"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "remainder"
+      }
+    ],
+    "consider": [
+      "rest"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "render"
+      }
+    ],
+    "consider": [
+      "make",
+      "give"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "represents"
+      }
+    ],
+    "consider": [
+      "is",
+      "makes up",
+      "stands for"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "request",
+        "form": "verb"
+      }
+    ],
+    "consider": [
+      "ask"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "requisite",
+        "form": "adjective"
+      }
+    ],
+    "consider": [
+      "needed",
+      "required"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "reside"
+      }
+    ],
+    "consider": [
+      "live"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "respond"
+      }
+    ],
+    "consider": [
+      "answer",
+      "reply"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "responsible for"
+      }
+    ],
+    "consider": [
+      "causes",
+      "has charge of"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "retain"
+      }
+    ],
+    "consider": [
+      "keep"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "selection"
+      }
+    ],
+    "consider": [
+      "choice"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "semiannually"
+      }
+    ],
+    "consider": [
+      "twice a year"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "similar to"
+      }
+    ],
+    "consider": [
+      "like"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "solely"
+      }
+    ],
+    "consider": [
+      "only"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "specified"
+      }
+    ],
+    "consider": [
+      "named",
+      "set out"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "submit"
+      }
+    ],
+    "consider": [
+      "send",
+      "offer"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "subsequent"
+      }
+    ],
+    "consider": [
+      "later"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "subsequently"
+      }
+    ],
+    "consider": [
+      "later",
+      "afterwards",
+      "then"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "sufficient"
+      }
+    ],
+    "consider": [
+      "enough"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "summon"
+      }
+    ],
+    "consider": [
+      "send for",
+      "call"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "terminate"
+      }
+    ],
+    "consider": [
+      "end",
+      "stop"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "thus"
+      }
+    ],
+    "consider": [
+      "so"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "transmit"
+      }
+    ],
+    "consider": [
+      "send"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "transpire"
+      }
+    ],
+    "consider": [
+      "happen"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "utilize"
+      }
+    ],
+    "consider": [
+      "use"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "visualize"
+      }
+    ],
+    "consider": [
+      "think of",
+      "imagine"
+    ],
+    "part": 1,
+    "page": 74
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "as a means of"
+      }
+    ],
+    "consider": [
+      "to"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "as to" } ],
-    "consider": [ "on", "for", "about", "of" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "as to"
+      }
+    ],
+    "consider": [
+      "on",
+      "for",
+      "about",
+      "of"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "by means of" } ],
-    "consider": [ "by", "with" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "by means of"
+      }
+    ],
+    "consider": [
+      "by",
+      "with"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "by reason of" } ],
-    "consider": [ "because of" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "by reason of"
+      }
+    ],
+    "consider": [
+      "because of"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "by virtue of" } ],
-    "consider": [ "by", "under", "because of" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "by virtue of"
+      }
+    ],
+    "consider": [
+      "by",
+      "under",
+      "because of"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "during the period from" } ],
-    "consider": [ "from" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "during the period from"
+      }
+    ],
+    "consider": [
+      "from"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "for a period of" } ],
-    "consider": [ "for" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "for a period of"
+      }
+    ],
+    "consider": [
+      "for"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "from the point of view of" } ],
-    "consider": [ "from", "for" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "from the point of view of"
+      }
+    ],
+    "consider": [
+      "from",
+      "for"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "in addition to" } ],
-    "consider": [ "besides" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in addition to"
+      }
+    ],
+    "consider": [
+      "besides"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "in back of" } ],
-    "consider": [ "behind" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in back of"
+      }
+    ],
+    "consider": [
+      "behind"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "in connection with" } ],
-    "consider": [ "with", "about", "concerning", "for" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in connection with"
+      }
+    ],
+    "consider": [
+      "with",
+      "about",
+      "concerning",
+      "for"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "in excess of" } ],
-    "consider": [ "more than", "over" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in excess of"
+      }
+    ],
+    "consider": [
+      "more than",
+      "over"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "in favor of" } ],
-    "consider": [ "for" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in favor of"
+      }
+    ],
+    "consider": [
+      "for"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "in lieu of" } ],
-    "consider": [ "instead of", "rather than" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in lieu of"
+      }
+    ],
+    "consider": [
+      "instead of",
+      "rather than"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "be in receipt of" },
-      { "phrase": "in receipt of" } ],
-    "consider": [ "have" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "be in receipt of"
+      },
+      {
+        "phrase": "in receipt of"
+      }
+    ],
+    "consider": [
+      "have"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "in terms of" } ],
-    "consider": [ "in", "for", "about" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in terms of"
+      }
+    ],
+    "consider": [
+      "in",
+      "for",
+      "about"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "in the absence of" } ],
-    "consider": [ "without" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in the absence of"
+      }
+    ],
+    "consider": [
+      "without"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "in the amount of" } ],
-    "consider": [ "for" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in the amount of"
+      }
+    ],
+    "consider": [
+      "for"
+    ],
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "in the case of" } ],
-    "consider": [ "in", "with" ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in the case of"
+      }
+    ],
+    "consider": [
+      "in",
+      "with"
+    ],
     "note": "or cut",
     "part": 2,
     "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "in the nature of" } ],
-    "consider": [ "like" ],
-    "part": 2,
-    "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "in the neighborhood of" } ],
-    "consider": [ "about", "roughly" ],
-    "part": 2,
-    "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "on behalf of" } ],
-    "consider": [ "for" ],
-    "part": 2,
-    "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "on the basis of" } ],
-    "consider": [ "by", "from", "because of" ],
-    "part": 2,
-    "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "on the occasion of" } ],
-    "consider": [ "on" ],
-    "part": 2,
-    "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "on the part of" } ],
-    "consider": [ "by" ],
-    "part": 2,
-    "page": 72,
-    "category": "compound prepositions" },
-  { "instead of": [
-      { "phrase": "under the provisions of" } ],
-    "consider": [ "under" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "with the exception of" } ],
-    "consider": [ "except for" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "as regards" } ],
-    "consider": [ "about", "concerning" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "in reference to" } ],
-    "consider": [ "on", "for" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "in regard to" } ],
-    "consider": [ "on", "for" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "in relation to" } ],
-    "consider": [ "on", "for" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "with reference to" } ],
-    "consider": [ "on", "for" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "with regard to" } ],
-    "consider": [ "on", "for" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "with respect to" } ],
-    "consider": [ "on", "for" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "concerning the matter of" } ],
-    "consider": [ "on", "for" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "in the event that" } ],
-    "consider": [ "if", "when" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "in a situation where" } ],
-    "consider": [ "if", "when" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "under circumstances in which" } ],
-    "consider": [ "if", "when" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "due to the fact that" } ],
-    "consider": [ "because", "since" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "because of the fact that" } ],
-    "consider": [ "given that" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "in view of the fact that" } ],
-    "consider": [ "given that" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "for the reason that" } ],
-    "consider": [ "given that" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "inasmuch as" } ],
-    "consider": [ "given that" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "despite the fact that" } ],
-    "consider": [ "although", "even though" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "notwithstanding the fact that" } ],
-    "consider": [ "although", "even though" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "as a consequence of" } ],
-    "consider": [ "because of", "from" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "as a result of" } ],
-    "consider": [ "because of", "from" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "prior to" } ],
-    "consider": [ "before" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "previous to" } ],
-    "consider": [ "before" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "antecedent to" } ],
-    "consider": [ "before" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "anterior to" } ],
-    "consider": [ "before" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "subsequent to" } ],
-    "consider": [ "after" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "posterior to" } ],
-    "consider": [ "after" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "during such time as" } ],
-    "consider": [ "while" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "during the time that" } ],
-    "consider": [ "while" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "in the course of" } ],
-    "consider": [ "during" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "during the course of" } ],
-    "consider": [ "during" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "at present" } ],
-    "consider": [ "now", "currently" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "at the present time" } ],
-    "consider": [ "now", "currently" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "at this point in time" } ],
-    "consider": [ "now", "currently" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "at an early date" } ],
-    "consider": [ "soon" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "in the near future" } ],
-    "consider": [ "soon" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "at the time that" } ],
-    "consider": [ "when" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "at such time as" } ],
-    "consider": [ "when" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "at the place where" } ],
-    "consider": [ "where" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "in the place in which" } ],
-    "consider": [ "where" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "until such time as" } ],
-    "consider": [ "until" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "in proximity to" } ],
-    "consider": [ "close to", "near" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "in the vicinity of" } ],
-    "consider": [ "close to", "near" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "there is a need for" } ],
-    "consider": [ "must", "should" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "it is necessary that" } ],
-    "consider": [ "must", "should" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "it is important that" } ],
-    "consider": [ "must", "should" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "has discretion to" } ],
-    "consider": [ "may" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "is permitted to" } ],
-    "consider": [ "may" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "is authorized to" } ],
-    "consider": [ "may" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "is able to" } ],
-    "consider": [ "can" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "is in a position to" } ],
-    "consider": [ "can" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "has the ability to" } ],
-    "consider": [ "can" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "for the purpose of" } ],
-    "consider": [ "to", "for" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "in order to" } ],
-    "consider": [ "to", "for" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "with a view to" } ],
-    "consider": [ "to", "for" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "with the object of" } ],
-    "consider": [ "to", "for" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "there is no doubt but that" } ],
-    "consider": [ "doubtless", "no doubt" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "this is a topic that" } ],
-    "consider": [ "this topic" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "this is a subject that" } ],
-    "consider": [ "this topic" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "the question as to whether" } ],
-    "consider": [ "whether", "the question whether" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "it would appear that" } ],
-    "consider": [ "apparently" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "it is probable that" } ],
-    "consider": [ "probably" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "in a negligent manner" } ],
-    "consider": [ "negligently" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "in a precise manner" } ],
-    "consider": [ "precisely" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "on a daily basis" } ],
-    "consider": [ "daily", "every day" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "a large percentage of" } ],
-    "consider": [ "many" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "a large number of" } ],
-    "consider": [ "many" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "the majority of" } ],
-    "consider": [ "most" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "sufficient number of" } ],
-    "consider": [ "enough" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "adequate number of" } ],
-    "consider": [ "enough" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "excessive number of" } ],
-    "consider": [ "too many" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "have a negative impact" } ],
-    "consider": [ "hurt", "harm" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "no later than" } ],
-    "consider": [ "before" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "on or before" } ],
-    "consider": [ "before" ],
-    "part": 2,
-    "page": 72,
-    "category": "other wordy phrases" },
-  { "instead of": [
-      { "phrase": "ab initio" } ],
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in the nature of"
+      }
+    ],
+    "consider": [
+      "like"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in the neighborhood of"
+      }
+    ],
+    "consider": [
+      "about",
+      "roughly"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "on behalf of"
+      }
+    ],
+    "consider": [
+      "for"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "on the basis of"
+      }
+    ],
+    "consider": [
+      "by",
+      "from",
+      "because of"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "on the occasion of"
+      }
+    ],
+    "consider": [
+      "on"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "on the part of"
+      }
+    ],
+    "consider": [
+      "by"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "compound prepositions"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "under the provisions of"
+      }
+    ],
+    "consider": [
+      "under"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "with the exception of"
+      }
+    ],
+    "consider": [
+      "except for"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "as regards"
+      }
+    ],
+    "consider": [
+      "about",
+      "concerning"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in reference to"
+      }
+    ],
+    "consider": [
+      "on",
+      "for"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in regard to"
+      }
+    ],
+    "consider": [
+      "on",
+      "for"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in relation to"
+      }
+    ],
+    "consider": [
+      "on",
+      "for"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "with reference to"
+      }
+    ],
+    "consider": [
+      "on",
+      "for"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "with regard to"
+      }
+    ],
+    "consider": [
+      "on",
+      "for"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "with respect to"
+      }
+    ],
+    "consider": [
+      "on",
+      "for"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "concerning the matter of"
+      }
+    ],
+    "consider": [
+      "on",
+      "for"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in the event that"
+      }
+    ],
+    "consider": [
+      "if",
+      "when"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in a situation where"
+      }
+    ],
+    "consider": [
+      "if",
+      "when"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "under circumstances in which"
+      }
+    ],
+    "consider": [
+      "if",
+      "when"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "due to the fact that"
+      }
+    ],
+    "consider": [
+      "because",
+      "since"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "because of the fact that"
+      }
+    ],
+    "consider": [
+      "given that"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in view of the fact that"
+      }
+    ],
+    "consider": [
+      "given that"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "for the reason that"
+      }
+    ],
+    "consider": [
+      "given that"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "inasmuch as"
+      }
+    ],
+    "consider": [
+      "given that"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "despite the fact that"
+      }
+    ],
+    "consider": [
+      "although",
+      "even though"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "notwithstanding the fact that"
+      }
+    ],
+    "consider": [
+      "although",
+      "even though"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "as a consequence of"
+      }
+    ],
+    "consider": [
+      "because of",
+      "from"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "as a result of"
+      }
+    ],
+    "consider": [
+      "because of",
+      "from"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "prior to"
+      }
+    ],
+    "consider": [
+      "before"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "previous to"
+      }
+    ],
+    "consider": [
+      "before"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "antecedent to"
+      }
+    ],
+    "consider": [
+      "before"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "anterior to"
+      }
+    ],
+    "consider": [
+      "before"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "subsequent to"
+      }
+    ],
+    "consider": [
+      "after"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "posterior to"
+      }
+    ],
+    "consider": [
+      "after"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "during such time as"
+      }
+    ],
+    "consider": [
+      "while"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "during the time that"
+      }
+    ],
+    "consider": [
+      "while"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in the course of"
+      }
+    ],
+    "consider": [
+      "during"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "during the course of"
+      }
+    ],
+    "consider": [
+      "during"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "at present"
+      }
+    ],
+    "consider": [
+      "now",
+      "currently"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "at the present time"
+      }
+    ],
+    "consider": [
+      "now",
+      "currently"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "at this point in time"
+      }
+    ],
+    "consider": [
+      "now",
+      "currently"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "at an early date"
+      }
+    ],
+    "consider": [
+      "soon"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in the near future"
+      }
+    ],
+    "consider": [
+      "soon"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "at the time that"
+      }
+    ],
+    "consider": [
+      "when"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "at such time as"
+      }
+    ],
+    "consider": [
+      "when"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "at the place where"
+      }
+    ],
+    "consider": [
+      "where"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in the place in which"
+      }
+    ],
+    "consider": [
+      "where"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "until such time as"
+      }
+    ],
+    "consider": [
+      "until"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in proximity to"
+      }
+    ],
+    "consider": [
+      "close to",
+      "near"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in the vicinity of"
+      }
+    ],
+    "consider": [
+      "close to",
+      "near"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "there is a need for"
+      }
+    ],
+    "consider": [
+      "must",
+      "should"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "it is necessary that"
+      }
+    ],
+    "consider": [
+      "must",
+      "should"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "it is important that"
+      }
+    ],
+    "consider": [
+      "must",
+      "should"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "has discretion to"
+      }
+    ],
+    "consider": [
+      "may"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "is permitted to"
+      }
+    ],
+    "consider": [
+      "may"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "is authorized to"
+      }
+    ],
+    "consider": [
+      "may"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "is able to"
+      }
+    ],
+    "consider": [
+      "can"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "is in a position to"
+      }
+    ],
+    "consider": [
+      "can"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "has the ability to"
+      }
+    ],
+    "consider": [
+      "can"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "for the purpose of"
+      }
+    ],
+    "consider": [
+      "to",
+      "for"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in order to"
+      }
+    ],
+    "consider": [
+      "to",
+      "for"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "with a view to"
+      }
+    ],
+    "consider": [
+      "to",
+      "for"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "with the object of"
+      }
+    ],
+    "consider": [
+      "to",
+      "for"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "there is no doubt but that"
+      }
+    ],
+    "consider": [
+      "doubtless",
+      "no doubt"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "this is a topic that"
+      }
+    ],
+    "consider": [
+      "this topic"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "this is a subject that"
+      }
+    ],
+    "consider": [
+      "this topic"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "the question as to whether"
+      }
+    ],
+    "consider": [
+      "whether",
+      "the question whether"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "it would appear that"
+      }
+    ],
+    "consider": [
+      "apparently"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "it is probable that"
+      }
+    ],
+    "consider": [
+      "probably"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in a negligent manner"
+      }
+    ],
+    "consider": [
+      "negligently"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "in a precise manner"
+      }
+    ],
+    "consider": [
+      "precisely"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "on a daily basis"
+      }
+    ],
+    "consider": [
+      "daily",
+      "every day"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "a large percentage of"
+      }
+    ],
+    "consider": [
+      "many"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "a large number of"
+      }
+    ],
+    "consider": [
+      "many"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "the majority of"
+      }
+    ],
+    "consider": [
+      "most"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "sufficient number of"
+      }
+    ],
+    "consider": [
+      "enough"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "adequate number of"
+      }
+    ],
+    "consider": [
+      "enough"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "excessive number of"
+      }
+    ],
+    "consider": [
+      "too many"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "have a negative impact"
+      }
+    ],
+    "consider": [
+      "hurt",
+      "harm"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "no later than"
+      }
+    ],
+    "consider": [
+      "before"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "on or before"
+      }
+    ],
+    "consider": [
+      "before"
+    ],
+    "part": 2,
+    "page": 72,
+    "category": "other wordy phrases"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "ab initio"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "above-mentioned" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "above-mentioned"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "ad idem" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "ad idem"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "aforementioned" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "aforementioned"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "aforesaid" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "aforesaid"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "anent" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "anent"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "arguendo" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "arguendo"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "before-mentioned" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "before-mentioned"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "below-mentioned" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "below-mentioned"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "case at bar" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "case at bar"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "ex contractu" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "ex contractu"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "ex delicto" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "ex delicto"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "foregoing" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "foregoing"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "henceforth" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "henceforth"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "hereafter" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "hereafter"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "hereby" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "hereby"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "herein" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "herein"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "hereinafter" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "hereinafter"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "hereinbefore" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "hereinbefore"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "hereof" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "hereof"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "heretofore" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "heretofore"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "hereunto" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "hereunto"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "herewith" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "herewith"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "instant case" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "instant case"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "instant matter" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "instant matter"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "instanter" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "instanter"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "inter alia" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "inter alia"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "inter se" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "inter se"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "premises",
-        "sense": "\"matters already referred to\"" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "premises",
+        "sense": "\"matters already referred to\""
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "said",
-        "sense": "for \"the\", \"that\", or \"those\"" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "said",
+        "sense": "for \"the\", \"that\", or \"those\""
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "same",
-        "sense": "for \"it\" or \"them\"" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "same",
+        "sense": "for \"it\" or \"them\""
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "ss." } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "ss."
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "sub judice" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "sub judice"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "such",
-        "sense": "for \"the\", \"that\", etc." } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "such",
+        "sense": "for \"the\", \"that\", etc."
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "thenceforth" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "thenceforth"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "thereafter" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "thereafter"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "thereat" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "thereat"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "therefor" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "therefor"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "therein" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "therein"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "thereof" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "thereof"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "thereunto" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "thereunto"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "therewith" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "therewith"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "to wit" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "to wit"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "unto" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "unto"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "vel non" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "vel non"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "viz." } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "viz."
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "whatsoever" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "whatsoever"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "whensoever" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "whensoever"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "whereat" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "whereat"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "wherefore" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "wherefore"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "wherein" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "wherein"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "whereof" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "whereof"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "wheresoever" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "wheresoever"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "whosoever" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "whosoever"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "within-named" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "within-named"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" },
-  { "instead of": [
-      { "phrase": "witnesseth",
-        "form": "verb" } ],
+    "category": "lawyerisms"
+  },
+  {
+    "instead of": [
+      {
+        "phrase": "witnesseth",
+        "form": "verb"
+      }
+    ],
     "note": "either cut or find a plain, modern day equivalent",
     "part": 2,
     "page": 74,
-    "category": "lawyerisms" } ]
+    "category": "lawyerisms"
+  }
+]
